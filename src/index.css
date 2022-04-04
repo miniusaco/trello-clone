@@ -95,7 +95,7 @@ header {
   border-radius: 50%;
   font-size: 30px;
   background-color: rgb(151, 145, 130);
-  box-shadow: 5px 5px 20px -10px rgba(0, 0, 0, 0.9);
+  box-shadow: 5px 5px 20px -10px rgba(86, 85, 85, 0.9);
   cursor: pointer;
   transition: all 0.3s;
   color: #fff;
